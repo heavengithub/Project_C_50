@@ -1,0 +1,28 @@
+h1 {
+    color: purple;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.origami {
+    background-color: mediumorchid;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+.contact {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.info {
+    display: flex;
+    background-color: darkmagenta;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
